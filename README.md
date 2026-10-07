@@ -4,15 +4,15 @@ An AI-powered chatbot that allows users to interact with an intelligent assistan
 
 ## 🚀 Features
 
-- 💬 Real-time AI chat
-- 🧠 AI-powered responses
-- 📚 Context-aware conversations
-- 📄 Document upload support
-- 🔍 RAG-based document search
-- 🔐 User authentication
-- 💾 Chat history
-- 📱 Responsive UI
-- ⚡ Fast API-based backend
+- Real-time AI chat
+- AI-powered responses
+- Context-aware conversations
+- Document upload support
+- RAG-based document search
+- User authentication
+- Chat history
+- Responsive UI
+- Fast API-based backend
 
 ## 🏗️ Project Architecture
 
