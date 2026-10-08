@@ -1,8 +1,8 @@
-# 🤖 AI Chatbot
+# AI Chatbot
 
 An AI-powered chatbot that allows users to interact with an intelligent assistant through a simple and modern web interface.
 
-## 🚀 Features
+## Features
 
 - Real-time AI chat
 - AI-powered responses
@@ -14,7 +14,7 @@ An AI-powered chatbot that allows users to interact with an intelligent assistan
 - Responsive UI
 - Fast API-based backend
 
-## 🏗️ Project Architecture
+## Project Architecture
 
 ```text
 User
